@@ -24,3 +24,9 @@ https://github.com/user-attachments/assets/88ccc474-3ca2-4d2f-9ba3-d8c464efb6fa
 [VIEW ME](https://ShalomGreen.github.io/html-css-portfolio/3f.html)
 
 
+
+## EXERCISE 4
+https://github.com/user-attachments/assets/f8ecc8b8-e37b-400e-8ee3-66794babcd4e
+
+
+
