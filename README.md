@@ -16,7 +16,9 @@
 
 
 ## EXERCISE 3
-https://github.com/user-attachments/assets/96b03f93-5791-46bc-b9ed-c9198a8186ad
+https://github.com/user-attachments/assets/88ccc474-3ca2-4d2f-9ba3-d8c464efb6fa
+
+
 
 ## SOLUTION
 [VIEW ME](https://ShalomGreen.github.io/html-css-portfolio/3f.html)
