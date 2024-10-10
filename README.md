@@ -1,4 +1,4 @@
-[VIEW ME](https://ShalomGreen.github.io/html-css-exercises/3f.html)
+[VIEW ME](https://github.com/ShalomGreen/html-css-exercises/blob/nike/3f.html))
 
 
 
