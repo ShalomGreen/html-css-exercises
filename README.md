@@ -14,3 +14,11 @@
 ## SOLUTION
 [VIEW ME](https://ShalomGreen.github.io/html-css-portfolio/2f.html)
 
+
+## EXERCISE 3
+https://github.com/user-attachments/assets/96b03f93-5791-46bc-b9ed-c9198a8186ad
+
+## SOLUTION
+[VIEW ME](https://ShalomGreen.github.io/html-css-portfolio/3f.html)
+
+
