@@ -20,9 +20,7 @@ https://github.com/user-attachments/assets/88ccc474-3ca2-4d2f-9ba3-d8c464efb6fa
 
 
 ## SOLUTION
-[CLICK HERE](./path/to/3f.html.mp4)
-
-
+https://github.com/user-attachments/assets/cc822c96-2230-4319-8b27-f444e08557d7
 
 
 
