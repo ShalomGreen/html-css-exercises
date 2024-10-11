@@ -1,4 +1,4 @@
-# CHALLENGE EXERCISE FROM YOUTUBE TUTORIAL, 
+# CHALLENGE EXERCISE FROM YOUTUBE TUTORIAL
 ## EXERCISE 1
 <img width="590" alt="1G CHALLENGE EXERCISE " src="https://github.com/user-attachments/assets/e9b9813b-85e9-4aa7-b781-70f00a9fef69">
 
@@ -30,7 +30,9 @@ https://github.com/user-attachments/assets/88ccc474-3ca2-4d2f-9ba3-d8c464efb6fa
 https://github.com/user-attachments/assets/f8ecc8b8-e37b-400e-8ee3-66794babcd4e
 
 ## SOLUTION
-[VIEW ME](./path/to/4k.html.mp4)
+[VIEW ME](https://github.com/user-attachments/assets/b4c93467-75fc-411f-90fd-193965bf9145)
+
+
 
 
 
