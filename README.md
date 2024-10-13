@@ -35,6 +35,17 @@ https://github.com/user-attachments/assets/f8ecc8b8-e37b-400e-8ee3-66794babcd4e
 [VIEW ME](https://github.com/user-attachments/assets/b4c93467-75fc-411f-90fd-193965bf9145)
 
 
+## EXERCISE 8
+<img width="746" alt="8e" src="https://github.com/user-attachments/assets/808cbd50-3af2-4e80-a843-9b95d7651f29">
+
+## SOLUTION
+https://github.com/user-attachments/assets/50b927ef-14c9-4fde-85cf-186c3be63509     https://github.com/user-attachments/assets/aa4bcd92-0de5-45e1-adf7-07ccf6f8df4a
+
+
+
+
+
+
 
 
 
