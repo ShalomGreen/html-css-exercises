@@ -3,7 +3,9 @@
 <img width="590" alt="1G CHALLENGE EXERCISE " src="https://github.com/user-attachments/assets/e9b9813b-85e9-4aa7-b781-70f00a9fef69">
 
 ## MY SOLUTION:
-[CLICK HERE](https://ShalomGreen.github.io/html-css-exercises/1g.html)
+https://github.com/user-attachments/assets/78aaa0fe-fede-41bc-8a3b-9b525c90b6c8
+
+
 
 
 
@@ -12,7 +14,9 @@
 
 
 ## SOLUTION
-[CLICK HERE](https://ShalomGreen.github.io/html-css-exercises/2f.html)
+https://github.com/user-attachments/assets/8c480afe-b068-45ac-b73b-19ce24a30eec
+
+
 
 
 ## EXERCISE 3
